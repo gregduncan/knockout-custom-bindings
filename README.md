@@ -1,4 +1,4 @@
 Knockout Custom Bindings
 ========================
 
-Commonly used binding for Knockout.js
+A selection commonly used custom bindings for Knockout.js
